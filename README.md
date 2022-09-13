@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fary03
+- 👋 Hi, I’m Fary
 - 👀 I’m interested in cool things:)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ let's collaborate (reach me out for details)
+- 📫 send me an Email :)
 
 <!---
 Fary03/Fary03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
